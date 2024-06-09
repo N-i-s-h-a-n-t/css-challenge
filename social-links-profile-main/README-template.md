@@ -21,7 +21,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Live Site URL: [Social Links Profile]()
+- Live Site URL: [Social Links Profile](https://social-links-profile-sooty.vercel.app/)
 
 ## My process
 
