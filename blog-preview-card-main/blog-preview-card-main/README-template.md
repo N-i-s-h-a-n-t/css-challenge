@@ -21,7 +21,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Blog preview card]()
+- Live Site URL: [Blog preview card](https://blog-preview-card-iota-five.vercel.app/)
 
 ## My process
 
@@ -34,6 +34,5 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@N-i-s-h-a-n-t](https://www.frontendmentor.io/profile/N-i-s-h-a-n-t)
 - Twitter - [@Nishant33109596](https://www.twitter.com/@Nishant33109596)

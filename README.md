@@ -11,3 +11,7 @@ Solution: [Recipe Page](https://recipe-page-gamma-seven.vercel.app/)
 Challenge 2: To Create a Social Links Profile
 
 Solution: [Social Links Profile](https://social-links-profile-sooty.vercel.app/)
+
+Challenge 3: To Create a Blog Preview Card
+
+Solution: [Blog Preview Card](https://blog-preview-card-iota-five.vercel.app/)
